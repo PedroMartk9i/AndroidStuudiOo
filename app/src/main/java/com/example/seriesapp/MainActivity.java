@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
     public boolean onCreateOptionsMenu(@NonNull Menu menu) {
         getMenuInflater().inflate(R.menu.menu_navbar,menu);
         return super.onCreateOptionsMenu(menu);
+        //fabian suarez
 
     }
 
