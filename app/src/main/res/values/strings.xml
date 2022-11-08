@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SeriesApp</string>
+    <string name="SignIn">Sign In</string>
+    <string name="Login">Login</string>
+    <string name="Emailtx">Email</string>
+    <string name="Passwordtx">Password</string>
+    <string name="mensajeerror">Credenciales Incorrectas</string>
+    <string name="cerrarsex">Cerrar Sesion</string>
+
+
+</resources>
